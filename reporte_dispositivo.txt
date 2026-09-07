@@ -1,0 +1,13 @@
+Generado por: JosiasMampo
+Dispositivo: Switch 01 (Cisco Catalyst)
+IP de gestión: 192.168.1.1
+Estado actual: Activo
+Prioridad de revisión: Baja
+Mensaje: El dispositivo opera dentro de los parámetros normales.
+Costo final estimado de mantenimiento: $1350.45
+
+IPs Monitoreadas en la red:
+ - 192.168.1.1
+ - 192.168.1.10
+ - 10.0.0.1
+ - 172.16.0.1
